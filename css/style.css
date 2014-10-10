@@ -104,6 +104,9 @@ td a {
   border-left: 2px solid #ffffff;
   color: #ffffff;
 }
+td a:hover {
+   color: #ffffff;
+}
 td .first {
 	border: none;
 }
