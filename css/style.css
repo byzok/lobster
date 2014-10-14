@@ -241,6 +241,9 @@ div .indent {
 	min-width: 150px;
 	border-bottom: 5px solid #3cc395;
 }
+.goods img {
+	margin: 0 auto;
+}
 .by {
 	min-width: 80px;
 }
